@@ -178,7 +178,7 @@ Pull the back-end content from your local machine
 
 Modify the App.js basic file in \src folder to include the Web design and Web App functions
     
-    Use App.js file in attachment folder as a reference
+    Use App.js file in web folder as a reference
     
 ---------------------------------------------------------------------------------------------------------
 Vehicle Main Program - IoT SDK
