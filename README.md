@@ -1,4 +1,4 @@
-# aws-amplify-iot-demo
+# A simple connected vehicle solution with AWS IoT and AWS Amplify
 
 Here, we setup a dev environment in the cloud that will help us deploy required cloud resources and configure Fleetwise
 
